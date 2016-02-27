@@ -22,4 +22,4 @@ practice.
 than getting to the end only to find out that there is an issue somewhere in the code that needs to be fixed.
 
 Finnally, an interesting article on how to increase productivy of engineers 
-[http://techcrunch.com/2014/10/16/how-tech-companies-can-really-help-their-coders-hint-not-more-free-lunches/](http://techcrunch.com/2014/10/16/how-tech-companies-can-really-help-their-coders-hint-not-more-free-lunches/)
+[here/](http://techcrunch.com/2014/10/16/how-tech-companies-can-really-help-their-coders-hint-not-more-free-lunches/)
