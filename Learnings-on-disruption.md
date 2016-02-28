@@ -20,7 +20,7 @@ When looking to develop a new venture, a long dated, holistic understanding of t
  # Areas of true disruption today
  
   UI/UX/Mobile/virtual experiences
- [Good read on VR today](http://www.theguardian.com/technology/2016/jan/07/virtual-reality-future-oculus-rift-vr](url)
+ [Good read on VR today](http://www.theguardian.com/technology/2016/jan/07/virtual-reality-future-oculus-rift-vr)
   Natural Language Processing/AI/computer vision
   Conversational commerce and incorporation of trasactions into daily life rather than as activity in themselves
  [Good read on Conversational Commerce](https://medium.com/chris-messina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991#.9f0wlw7r5)
