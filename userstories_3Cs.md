@@ -1,4 +1,4 @@
-User Stories
+#User Stories
 A user story is not a requirements document. Developers should not be the ones writing user stories. A good user story should follow the INVEST guideline.
 I = Independent
 N = Negotiable
@@ -11,7 +11,7 @@ As a returning customer,
 I want to see the order status,
 So I can track when my shipment will be shipped and reach me.
 
-The 3 C’s of user stories :
+#The 3 C’s of user stories :
 1.	The Card
 It is typically a 4x6 index card on which a user story is written. The most optimal way to implement this is using Post-Its and Markers. 
 The team would then have a whiteboard of user stories (works best if the teams are co-located). There are 3 columns : ToDo, Doing 
