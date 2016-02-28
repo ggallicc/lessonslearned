@@ -2,20 +2,20 @@ When looking to develop a new venture, a long dated, holistic understanding of t
 
  # Industry history
  
- Look to the past, the WAY past of what you are entering into, how has it changed, how long were the cycles, what were the turning points
- Can you be a critical point?
- What is truely different or innovative that you are doing?
+ +Look to the past, the WAY past of what you are entering into, how has it changed, how long were the cycles, what were the turning points
+ +Can you be a critical point?
+ +What is truely different or innovative that you are doing?
  
  # Tools and types of disrutpion
  
-  Access long tail
-  Algorithms
-  Authentication
-  Network effects
-  Business model
-  Crowd sourcing
-  Sharing econom
-  Dissapearing data
+ +Access long tail
+ +Algorithms
+ +Authentication
+ +Network effects
+ +Business model
+ +Crowd sourcing
+ +Sharing econom
+ +Dissapearing data
  
  # Areas of true disruption today
  
