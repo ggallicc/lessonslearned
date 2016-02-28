@@ -1,12 +1,12 @@
 When looking to develop a new venture, a long dated, holistic understanding of the history and potential future of that industry or area to be disrupted is critical
 
- #Industry history
+ # Industry history
  
  Look to the past, the WAY past of what you are entering into, how has it changed, how long were the cycles, what were the turning points
  Can you be a critical point?
  What is truely different or innovative that you are doing?
  
- #Tools and types of disrutpion
+ # Tools and types of disrutpion
  
   Access long tail
   Algorithms
@@ -17,7 +17,7 @@ When looking to develop a new venture, a long dated, holistic understanding of t
   Sharing econom
   Dissapearing data
  
- #Areas of true disruption today
+ # Areas of true disruption today
  
   UI/UX/Mobile/virtual experiences
  [http://www.theguardian.com/technology/2016/jan/07/virtual-reality-future-oculus-rift-vr](url)
@@ -26,7 +26,7 @@ When looking to develop a new venture, a long dated, holistic understanding of t
  [https://medium.com/chris-messina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991#.9f0wlw7r5](url)
   Replacement of labor
  
- #"jobs to be done" concept (Inventors Dilemma)
+ # "jobs to be done" concept (Inventors Dilemma)
  
   What is the service or action the consumer is paying for?
   What do they truly want vs. what you think you are offering?
