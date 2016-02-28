@@ -14,3 +14,6 @@
   Advantages of Native Apps: Highest performance, can take full advantage of hardware and 3rd party integration, future proof - can continue to rework existing code, only real option for gaming / imersive experiences.
   Disadvantages of Native Apps: Most expensive option, deed separate development teams for each platform (IOS, Android)
   ![](https://cloud.githubusercontent.com/assets/17224915/13376087/6c693466-dd7f-11e5-9c4f-ddbcc1bf849b.jpg)
+
+If you have decided to go build a native app, you have to prioritize whether to start on iOS or Android. This article gives a list of pros and cons on each of them!
+[http://mashable.com/2013/08/16/ios-android-development/](url)
