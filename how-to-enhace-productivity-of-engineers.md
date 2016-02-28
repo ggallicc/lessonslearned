@@ -23,6 +23,8 @@ This allows to write the code piece by piece and make sure it works. This is mor
 # Be Agile
 Follow the Agile principles like delivering work frequently, building projects around motivated individuals, achieving simplicity and reflecting on how to become more effective as a team. Furthermore, you can use a Kanvan Whiteboard to track the progress of the engineers. For more information, see Vijay's takeaways on user stories on Kanban Whiteboard.
 ![](http://www.washington.edu/admin/hr/publications/email/pod/imgs/kanban-whiteboard.jpg)
+# Foster the best organizational culture
+Culture of an organization is particularly important in the influence it will have on software development and setting tone for your engineers. Responsibility, transparency, visibility and simplicity important values in creating great software and having a culture that encourages and reflects these values will help encourage the best development possible.
 
 Finnally, an interesting article on how to increase productivy of engineers 
 [here!](http://techcrunch.com/2014/10/16/how-tech-companies-can-really-help-their-coders-hint-not-more-free-lunches/)
