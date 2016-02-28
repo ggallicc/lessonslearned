@@ -6,19 +6,23 @@ V = Valuable
 E = Estimable
 S = Small
 T = Testable
-An example of a user story : 
-As a returning customer,
-I want to see the order status,
-So I can track when my shipment will be shipped and reach me.
+A good user story has:
+1. ROLE : The role that you are when you visit the website/application
+2. FEATURE : Functionality that you want
+3. BENEFIT : Benefit to the visitor (not for the company)
+A user story follows the format:
+   As a ROLE,
+   I want FEATURE,
+   So that BENFIT
+An example of a user story follows: 
+   As a returning customer,
+   I want to see the order status,
+   So I can track when my shipment will be shipped and reach me.
 
 #The 3 C’s of user stories :
 1.	The Card
-It is typically a 4x6 index card on which a user story is written. The most optimal way to implement this is using Post-Its and Markers. 
-The team would then have a whiteboard of user stories (works best if the teams are co-located). There are 3 columns : ToDo, Doing 
-and Done. User stories start off in the "ToDo" column. They are moved to the “Doing” column when work is started and then to 
-the “Done” column after they are completed. Prof. Bell mentioned in class that there are software packages that can help with 
-the whiteboard of user stories. But he also mentioned that people love to physically move user stories from the “Doing” to the “Done” 
-column because it gives the developer in question a sense of accomplishment.
+It is typically a 4x6 index card on which a user story is written. Post-Its and Markers are optimal. The team would  have a whiteboard of user stories (works best if team is co-located). There are 4 columns : ToDo, Doing, Ready For Review and Done. User stories start off in the "ToDo" column. They are moved to the “Doing” column when work is started and to the “Ready for Review” column when they are ready to be reviewed by the Product Manager/Owner. After approval, user story is moved to "Done" column. Prof. Bell mentioned that people love to physically move user stories to the “Done”  column because it gives developers a sense of accomplishment.
+Another useful column is "Obstacles" which gives a sense of an obstable/outside dependency that a developer faces. Both "Ready for Review" and "Obstacles" provide visibility and transparency to the Product Manager aand team. e.g. if the Ready for Review column has many post-its on it, Product Manager needs to start clearing the backlog of stories.
 2.	Conversation
 In Agile, you don’t front-load specifications upfront. You deliver requirements Just-In-Time. This is done when it comes close 
 to time to work on the new user story. It is achieved during a quick conversation with the client and the IT contact. 
@@ -32,4 +36,4 @@ and not on the developer’s desktop.
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 You can find more information on [Kanban and user stories](https://www.atlassian.com/agile/kanban).
-An image of a user story whiteboard :
+An example ![user story whiteboard](http://www.swiftkanban.com/wp-content/uploads/2015/05/kanban-board-pull-system.png)
