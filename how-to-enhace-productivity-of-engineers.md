@@ -1,9 +1,9 @@
-Here are some learnings associated with increasing productivy of employees
+# Here are some learnings associated with increasing productivy of employees
 -Pairing the programmers: even though engineers working with the same computers can loose producitivy for basic tasks, when it comes to 
 complex problems they tend to produce code with more quality than when working individually.
 ![](https://upload.wikimedia.org/wikipedia/commons/a/af/Pair_programming_1.jpg)
 
--Spending time on Slack: in this case, it is recommeded to limit time on Slack and have periods of time where engineers are not chatting.
+# Spending time on Slack: in this case, it is recommeded to limit time on Slack and have periods of time where engineers are not chatting.
 Engineers need to be focused for long hours to be productive. 
 -Talking vs. Coding: it is important that the manager of the team have a daily communication with the engineers. However, it is important
 to manage the time spent on discussions or brainstorming and leave enough time for actual coding. 
