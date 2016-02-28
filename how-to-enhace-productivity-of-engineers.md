@@ -25,4 +25,4 @@ Follow the Agile principles like delivering work frequently, building projects a
 ![](http://www.washington.edu/admin/hr/publications/email/pod/imgs/kanban-whiteboard.jpg)
 
 Finnally, an interesting article on how to increase productivy of engineers 
-[here/](http://techcrunch.com/2014/10/16/how-tech-companies-can-really-help-their-coders-hint-not-more-free-lunches/)
+[here!](http://techcrunch.com/2014/10/16/how-tech-companies-can-really-help-their-coders-hint-not-more-free-lunches/)
