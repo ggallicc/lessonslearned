@@ -20,6 +20,8 @@ cultural tradition (i.e. USA is more direct vs UK more indirect communication).
 This can be a productive habit if managed correctly. Engineers need some time-off  to think how things can be made differently, how to make a task they repeat a lot automatic, etc. Sometimes the short term necessities do not allow for the time to fix these issues that may be important in the medium term. Having Friday afternoon for this can be a good practice.
 # Use of TDD (test driven development)
 This allows to write the code piece by piece and make sure it works. This is more efficient than getting to the end only to find out that there is an issue somewhere in the code that needs to be fixed.
+# Be Agile
+Follow the Agile principles like delivering work frequently, building projects around motivated individuals, achieving simplicity and reflecting on how to become more effective as a team. Furthermore, you can use a Kanvan Whiteboard to track the progress of the engineers. For more information, see Vijay's takeaways on user stories on Kanban Whiteboard.
 
 Finnally, an interesting article on how to increase productivy of engineers 
 [here/](http://techcrunch.com/2014/10/16/how-tech-companies-can-really-help-their-coders-hint-not-more-free-lunches/)
