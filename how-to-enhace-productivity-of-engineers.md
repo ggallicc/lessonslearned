@@ -22,6 +22,7 @@ This can be a productive habit if managed correctly. Engineers need some time-of
 This allows to write the code piece by piece and make sure it works. This is more efficient than getting to the end only to find out that there is an issue somewhere in the code that needs to be fixed.
 # Be Agile
 Follow the Agile principles like delivering work frequently, building projects around motivated individuals, achieving simplicity and reflecting on how to become more effective as a team. Furthermore, you can use a Kanvan Whiteboard to track the progress of the engineers. For more information, see Vijay's takeaways on user stories on Kanban Whiteboard.
+![](http://www.washington.edu/admin/hr/publications/email/pod/imgs/kanban-whiteboard.jpg)
 
 Finnally, an interesting article on how to increase productivy of engineers 
 [here/](http://techcrunch.com/2014/10/16/how-tech-companies-can-really-help-their-coders-hint-not-more-free-lunches/)
